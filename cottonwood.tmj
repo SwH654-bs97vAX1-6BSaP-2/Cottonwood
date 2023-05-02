@@ -1719,7 +1719,7 @@
                         {
                          "name":"openWebsite",
                          "type":"string",
-                         "value":" https:\/\/setwithfriends.com\/"
+                         "value":"https:\/\/setwithfriends.com\/"
                         }, 
                         {
                          "name":"openWebsiteTrigger",
@@ -1741,7 +1741,7 @@
                         {
                          "name":"openWebsite",
                          "type":"string",
-                         "value":" https:\/\/colonist.io"
+                         "value":"https:\/\/colonist.io"
                         }, 
                         {
                          "name":"openWebsiteTrigger",
@@ -1846,7 +1846,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"library.json"
+                         "value":"library.tmj"
                         }],
                  "rotation":0,
                  "type":"area",
@@ -1863,7 +1863,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"playground.json"
+                         "value":"playground.tmj"
                         }],
                  "rotation":0,
                  "type":"area",
@@ -1880,7 +1880,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"ocean.json"
+                         "value":"ocean.tmj"
                         }],
                  "rotation":0,
                  "type":"area",
