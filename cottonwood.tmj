@@ -1852,7 +1852,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"library.tmj"
+                         "value":"https:\/\/play.workadventu.re\/@\/cottonwood\/cottonwood\/library"
                         }],
                  "rotation":0,
                  "visible":true,
@@ -1869,7 +1869,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"playground.tmj"
+                         "value":"https:\/\/play.workadventu.re\/@\/cottonwood\/cottonwood\/playground"
                         }],
                  "rotation":0,
                  "visible":true,
@@ -1886,7 +1886,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"ocean.tmj"
+                         "value":"https:\/\/play.workadventu.re\/@\/cottonwood\/cottonwood\/ocean"
                         }],
                  "rotation":0,
                  "visible":true,

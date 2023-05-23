@@ -328,28 +328,29 @@
          "name":"floorLayer",
          "objects":[
                 {
+                 "class":"area",
                  "height":61.7182656893848,
                  "id":1,
                  "name":"CampusPopup1",
                  "rotation":0,
-                 "type":"area",
                  "visible":true,
                  "width":94.0342048645299,
                  "x":32.5930788024651,
                  "y":544.561134813843
                 }, 
                 {
+                 "class":"area",
                  "height":63.2583224529155,
                  "id":2,
                  "name":"CampusPopup2",
                  "rotation":0,
-                 "type":"area",
                  "visible":true,
                  "width":94.7705725233182,
                  "x":4832.50215474941,
                  "y":608.152206378058
                 }, 
                 {
+                 "class":"area",
                  "height":44.7606483226537,
                  "id":4,
                  "name":"exit-to-ship-1",
@@ -357,16 +358,16 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"ship-1.tmj"
+                         "value":"https:\/\/play.workadventu.re\/@\/cottonwood\/cottonwood\/ship-1"
                         }],
                  "rotation":0,
-                 "type":"area",
                  "visible":true,
                  "width":49.9434602336976,
                  "x":1495.47681869582,
                  "y":599.321522804372
                 }, 
                 {
+                 "class":"area",
                  "height":72.5593667546175,
                  "id":5,
                  "name":"exit",
@@ -374,16 +375,16 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"cottonwood.tmj#entry-addon-3"
+                         "value":"https:\/\/play.workadventu.re\/@\/cottonwood\/cottonwood\/cottonwood#entry-addon-3"
                         }],
                  "rotation":0,
-                 "type":"area",
                  "visible":true,
                  "width":61.7225782133434,
                  "x":4896.24906363324,
                  "y":697.553400635012
                 }, 
                 {
+                 "class":"area",
                  "height":72.5594,
                  "id":6,
                  "name":"exit",
@@ -391,10 +392,9 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"cottonwood.tmj#entry-addon-3"
+                         "value":"https:\/\/play.workadventu.re\/@\/cottonwood\/cottonwood\/cottonwood#entry-addon-3"
                         }],
                  "rotation":0,
-                 "type":"area",
                  "visible":true,
                  "width":61.7226,
                  "x":2.13383321785037,
@@ -473,7 +473,7 @@
          "value":"Current map is the sole property of 100 Roads Inc. All rights are reserved by 100 Roads inc. All contents of the map may not be reproduced, distributed (for sale or otherwise), or create derivative works of the copyrighted work without the express written permission of 100 Roads Inc."
         }],
  "renderorder":"right-down",
- "tiledversion":"1.8.4",
+ "tiledversion":"1.9.2",
  "tileheight":32,
  "tilesets":[
         {
@@ -1409,6 +1409,6 @@
         }],
  "tilewidth":32,
  "type":"map",
- "version":"1.8",
+ "version":"1.9",
  "width":156
 }

@@ -86,6 +86,7 @@
          "name":"floorLayer",
          "objects":[
                 {
+                 "class":"zone",
                  "height":477.718360071301,
                  "id":1,
                  "name":"zoom1",
@@ -101,13 +102,13 @@
                          "value":-1
                         }],
                  "rotation":0,
-                 "type":"zone",
                  "visible":true,
                  "width":900.178253119429,
                  "x":-1.7825311942959,
                  "y":0
                 }, 
                 {
+                 "class":"area",
                  "height":35.6155971753147,
                  "id":2,
                  "name":"exit",
@@ -115,10 +116,9 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"ship-1.tmj#entry-from-ship-2"
+                         "value":"https:\/\/play.workadventu.re\/@\/cottonwood\/cottonwood\/ship-1#entry-from-ship-2"
                         }],
                  "rotation":0,
-                 "type":"area",
                  "visible":true,
                  "width":33.1593490942585,
                  "x":416.334049739024,
@@ -181,7 +181,7 @@
          "value":"Current map is the sole property of 100 Roads Inc. All rights are reserved by 100 Roads inc. All contents of the map may not be reproduced, distributed (for sale or otherwise), or create derivative works of the copyrighted work without the express written permission of 100 Roads Inc."
         }],
  "renderorder":"right-down",
- "tiledversion":"1.8.4",
+ "tiledversion":"1.9.2",
  "tileheight":32,
  "tilesets":[
         {
@@ -1105,6 +1105,6 @@
         }],
  "tilewidth":32,
  "type":"map",
- "version":"1.8",
+ "version":"1.9",
  "width":28
 }
