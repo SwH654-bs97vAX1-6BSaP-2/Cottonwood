@@ -2332,7 +2332,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"playground.tmj#entry\/entry-squid-bridge"
+                 "value":"#entry\/entry-squid-bridge"
                 }],
          "type":"tilelayer",
          "visible":true,
