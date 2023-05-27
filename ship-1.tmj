@@ -128,7 +128,6 @@
          "name":"floorLayer",
          "objects":[
                 {
-                 "class":"zone",
                  "height":479.128856624319,
                  "id":1,
                  "name":"zoom1",
@@ -144,13 +143,13 @@
                          "value":-1
                         }],
                  "rotation":0,
+                 "type":"zone",
                  "visible":true,
                  "width":894.37386569873,
                  "x":1.4519056261343,
                  "y":1.4519056261343
                 }, 
                 {
-                 "class":"area",
                  "height":34.0715502555366,
                  "id":2,
                  "name":"exit-to-ship-2",
@@ -161,13 +160,13 @@
                          "value":"https:\/\/play.workadventu.re\/@\/cottonwood\/cottonwood\/ship-2"
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":187.961385576377,
                  "x":367.40488358887,
                  "y":416.808631459398
                 }, 
                 {
-                 "class":"area",
                  "height":35.2072685973878,
                  "id":3,
                  "name":"exit",
@@ -178,13 +177,13 @@
                          "value":"https:\/\/play.workadventu.re\/@\/cottonwood\/cottonwood\/ocean#entry-from-ship-1"
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":35.7751277683134,
                  "x":286.768881317433,
                  "y":253.265190232822
                 }, 
                 {
-                 "class":"area",
                  "height":35.2073,
                  "id":4,
                  "name":"exit",
@@ -195,13 +194,13 @@
                          "value":"https:\/\/play.workadventu.re\/@\/cottonwood\/cottonwood\/ocean#entry-from-ship-1"
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":65.3037768881318,
                  "x":191.65248407155,
                  "y":286.201006445202
                 }, 
                 {
-                 "class":"area",
                  "height":35.2073,
                  "id":5,
                  "name":"exit",
@@ -212,13 +211,13 @@
                          "value":"https:\/\/play.workadventu.re\/@\/cottonwood\/cottonwood\/ocean#entry-from-ship-1"
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":35.7751,
                  "x":61.0448747586599,
                  "y":350.369092759796
                 }, 
                 {
-                 "class":"area",
                  "height":35.2073,
                  "id":6,
                  "name":"exit",
@@ -229,13 +228,13 @@
                          "value":"https:\/\/play.workadventu.re\/@\/cottonwood\/cottonwood\/ocean#entry-from-ship-1"
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":35.7751,
                  "x":638.557651590006,
                  "y":285.06528810335
                 }, 
                 {
-                 "class":"area",
                  "height":35.2073,
                  "id":7,
                  "name":"exit",
@@ -246,13 +245,13 @@
                          "value":"https:\/\/play.workadventu.re\/@\/cottonwood\/cottonwood\/ocean#entry-from-ship-1"
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":35.7751,
                  "x":861.726305763771,
                  "y":382.16920633163
                 }, 
                 {
-                 "class":"area",
                  "height":35.2073,
                  "id":8,
                  "name":"exit",
@@ -263,6 +262,7 @@
                          "value":"https:\/\/play.workadventu.re\/@\/cottonwood\/cottonwood\/ocean#entry-from-ship-1"
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":68.1430727427598,
                  "x":798.126078620102,
@@ -325,7 +325,7 @@
          "value":"Current map is the sole property of 100 Roads Inc. All rights are reserved by 100 Roads inc. All contents of the map may not be reproduced, distributed (for sale or otherwise), or create derivative works of the copyrighted work without the express written permission of 100 Roads Inc."
         }],
  "renderorder":"right-down",
- "tiledversion":"1.9.2",
+ "tiledversion":"1.8.4",
  "tileheight":32,
  "tilesets":[
         {
@@ -379,6 +379,6 @@
         }],
  "tilewidth":32,
  "type":"map",
- "version":"1.9",
+ "version":"1.8",
  "width":28
 }

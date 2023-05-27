@@ -1685,7 +1685,6 @@
          "name":"floorLayer",
          "objects":[
                 {
-                 "class":"area",
                  "height":1047.74844530115,
                  "id":44,
                  "name":"birds-1",
@@ -1706,13 +1705,13 @@
                          "value":"\/birds.mp3"
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":2428.46872267195,
                  "x":-9.24092926003641,
                  "y":1334.6511362177
                 }, 
                 {
-                 "class":"area",
                  "height":127.911523310221,
                  "id":1,
                  "name":"website1",
@@ -1728,13 +1727,13 @@
                          "value":"onicon"
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":127.260431703969,
                  "x":384.298596499778,
                  "y":863.235950881647
                 }, 
                 {
-                 "class":"area",
                  "height":129.051017107854,
                  "id":5,
                  "name":"website2",
@@ -1750,13 +1749,13 @@
                          "value":"onicon"
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":127.117506201461,
                  "x":515.418636000097,
                  "y":959.991897529609
                 }, 
                 {
-                 "class":"area",
                  "height":78.197546551977,
                  "id":52,
                  "name":"website13",
@@ -1777,13 +1776,13 @@
                          "value":"CottonwoodNYC.org"
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":64.0242412394311,
                  "x":1056.15561311764,
                  "y":1024.87659449685
                 }, 
                 {
-                 "class":"area",
                  "height":176.954,
                  "id":48,
                  "name":"fire",
@@ -1804,13 +1803,13 @@
                          "value":"\/fire.mp3"
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":291.619,
                  "x":1540.68227122372,
                  "y":317.258701482809
                 }, 
                 {
-                 "class":"area",
                  "height":61.9469026548672,
                  "id":50,
                  "name":"exit-1",
@@ -1821,13 +1820,13 @@
                          "value":"#entry\/portal-1"
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":63.8707195075031,
                  "x":2176.60638707195,
                  "y":929.203539823009
                 }, 
                 {
-                 "class":"area",
                  "height":61.9469026548672,
                  "id":51,
                  "name":"exit-2",
@@ -1838,13 +1837,13 @@
                          "value":"#entry\/portal-2"
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":63.8707195075031,
                  "x":2078.36400469418,
                  "y":447.969369894388
                 }, 
                 {
-                 "class":"area",
                  "height":61.9469026548672,
                  "id":54,
                  "name":"exit-addon-1",
@@ -1855,13 +1854,13 @@
                          "value":"https:\/\/play.workadventu.re\/@\/cottonwood\/cottonwood\/library"
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":63.8707195075031,
                  "x":1152.1622443692,
                  "y":224.543506658098
                 }, 
                 {
-                 "class":"area",
                  "height":61.9469026548672,
                  "id":56,
                  "name":"exit-addon-2",
@@ -1872,13 +1871,13 @@
                          "value":"https:\/\/play.workadventu.re\/@\/cottonwood\/cottonwood\/playground"
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":63.8707195075031,
                  "x":2303.89142430959,
                  "y":1441.05188105524
                 }, 
                 {
-                 "class":"area",
                  "height":61.9469026548672,
                  "id":57,
                  "name":"exit-addon-3",
@@ -1889,46 +1888,46 @@
                          "value":"https:\/\/play.workadventu.re\/@\/cottonwood\/cottonwood\/ocean"
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":63.8707195075031,
                  "x":1343.62783357232,
                  "y":2176.91355705972
                 }, 
                 {
-                 "class":"area",
                  "height":42.5959505017277,
                  "id":59,
                  "name":"Addon1Pop",
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":80.3665821004483,
                  "x":1142.56831726462,
                  "y":148.659185317927
                 }, 
                 {
-                 "class":"area",
                  "height":46.7137440637948,
                  "id":60,
                  "name":"Addon2Pop",
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":82.7967491297018,
                  "x":2294.26380348546,
                  "y":1351.00769522488
                 }, 
                 {
-                 "class":"area",
                  "height":44.9315305546166,
                  "id":58,
                  "name":"Addon3Pop",
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":78.6382509416187,
                  "x":1338.02173703148,
                  "y":2066.49426584873
                 }, 
                 {
-                 "class":"area",
                  "height":127.026,
                  "id":61,
                  "name":"website7",
@@ -1944,13 +1943,13 @@
                          "value":"onicon"
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":96.5116,
                  "x":737.026519303483,
                  "y":2047.37810823747
                 }, 
                 {
-                 "class":"area",
                  "height":128.081,
                  "id":62,
                  "name":"website8",
@@ -1966,13 +1965,13 @@
                          "value":"onicon"
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":95.7913,
                  "x":864.197519303484,
                  "y":1984.84810823747
                 }, 
                 {
-                 "class":"area",
                  "height":126.886,
                  "id":63,
                  "name":"website9",
@@ -1988,13 +1987,13 @@
                          "value":"onicon"
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":94.0596,
                  "x":1024.29751930348,
                  "y":2081.13810823747
                 }, 
                 {
-                 "class":"area",
                  "height":125.028,
                  "id":64,
                  "name":"website10",
@@ -2010,13 +2009,13 @@
                          "value":"onicon"
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":94.9569,
                  "x":1472.39751930348,
                  "y":1410.02810823747
                 }, 
                 {
-                 "class":"area",
                  "height":127.682,
                  "id":65,
                  "name":"website11",
@@ -2032,13 +2031,13 @@
                          "value":"onicon"
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":96.5182,
                  "x":1663.71751930348,
                  "y":1409.72810823747
                 }, 
                 {
-                 "class":"area",
                  "height":126.793,
                  "id":66,
                  "name":"website12",
@@ -2054,13 +2053,13 @@
                          "value":"onicon"
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":96.8088,
                  "x":1856.12751930348,
                  "y":1410.19810823747
                 }, 
                 {
-                 "class":"area",
                  "height":112.197,
                  "id":67,
                  "name":"website15",
@@ -2076,13 +2075,13 @@
                          "value":"onicon"
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":192.457,
                  "x":701.339396273268,
                  "y":188.779377429313
                 }, 
                 {
-                 "class":"area",
                  "height":127.259,
                  "id":68,
                  "name":"website3",
@@ -2103,13 +2102,13 @@
                          "value":"Press SPACE to open Google Classroom"
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":96.0802782642162,
                  "x":1184.43157679437,
                  "y":897.182172801086
                 }, 
                 {
-                 "class":"area",
                  "height":128.274,
                  "id":69,
                  "name":"website4",
@@ -2125,13 +2124,13 @@
                          "value":"onicon"
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":96.3846,
                  "x":1439.73785505859,
                  "y":896.563172801086
                 }, 
                 {
-                 "class":"area",
                  "height":126.966,
                  "id":70,
                  "name":"website5",
@@ -2147,13 +2146,13 @@
                          "value":"onicon"
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":96.0185,
                  "x":1600.30785505859,
                  "y":896.982172801086
                 }, 
                 {
-                 "class":"area",
                  "height":128.249,
                  "id":71,
                  "name":"website6",
@@ -2169,13 +2168,13 @@
                          "value":"onicon"
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":97.275,
                  "x":1758.41785505859,
                  "y":896.688172801086
                 }, 
                 {
-                 "class":"area",
                  "height":1391.11940026771,
                  "id":74,
                  "name":"birds-1",
@@ -2196,13 +2195,13 @@
                          "value":"\/birds.mp3"
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":796.070809903483,
                  "x":-11.9674234158624,
                  "y":-23.2929208130225
                 }, 
                 {
-                 "class":"website",
                  "height":162.4,
                  "id":75,
                  "name":"website",
@@ -2213,13 +2212,13 @@
                          "value":"https:\/\/www.cottonwoodalc.org\/"
                         }],
                  "rotation":0,
+                 "type":"website",
                  "visible":true,
                  "width":321.84,
                  "x":48.0250108926693,
                  "y":942.52498663465
                 }, 
                 {
-                 "class":"area",
                  "height":704.13673651858,
                  "id":76,
                  "name":"birds-1",
@@ -2240,13 +2239,13 @@
                          "value":"\/birds.mp3"
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":1646.12856384465,
                  "x":763.971202849958,
                  "y":-15.3821430567197
                 }, 
                 {
-                 "class":"area",
                  "height":78.1975,
                  "id":77,
                  "name":"presentation",
@@ -2262,6 +2261,7 @@
                          "value":"onicon"
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":64.0242,
                  "x":830.564415116116,
@@ -3063,7 +3063,7 @@
          "value":"This map is the sole property of 100 Roads Inc.  All rights are reserved by 100 Roads inc. All contents of the map may not be reproduced, distributed (for sale or otherwise), or create derivative works of the copyrighted work without the express written permission of 100 Roads Inc."
         }],
  "renderorder":"right-down",
- "tiledversion":"1.9.2",
+ "tiledversion":"1.8.4",
  "tileheight":32,
  "tilesets":[
         {
@@ -61130,6 +61130,6 @@
         }],
  "tilewidth":32,
  "type":"map",
- "version":"1.9",
+ "version":"1.8",
  "width":75
 }
