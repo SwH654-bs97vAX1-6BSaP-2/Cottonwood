@@ -2917,9 +2917,9 @@
                  "y":1963.56661989904
                 }, 
                 {
-                 "height":158.714009563536,
-                 "id":41,
-                 "name":"waterfall",
+                 "height":1817.06876059983,
+                 "id":50,
+                 "name":"birds",
                  "properties":[
                         {
                          "name":"audioLoop",
@@ -2929,24 +2929,24 @@
                         {
                          "name":"audioVolume",
                          "type":"float",
-                         "value":1
+                         "value":0.5
                         }, 
                         {
                          "name":"playAudio",
                          "type":"string",
-                         "value":"\/waterfall.mp3"
+                         "value":"\/birds.mp3"
                         }],
                  "rotation":0,
                  "type":"area",
                  "visible":true,
-                 "width":325.56719910469,
-                 "x":1357.20826126768,
-                 "y":-4.06958998880863
+                 "width":3494.4,
+                 "x":3.73632958801461,
+                 "y":18.8524157303368
                 }, 
                 {
-                 "height":186.736774516033,
-                 "id":31,
-                 "name":"fire",
+                 "height":166.465819831497,
+                 "id":51,
+                 "name":"birds",
                  "properties":[
                         {
                          "name":"audioLoop",
@@ -2956,19 +2956,46 @@
                         {
                          "name":"audioVolume",
                          "type":"float",
-                         "value":1
+                         "value":0.5
                         }, 
                         {
                          "name":"playAudio",
                          "type":"string",
-                         "value":"\/fire.mp3"
+                         "value":"\/birds.mp3"
                         }],
                  "rotation":0,
                  "type":"area",
                  "visible":true,
-                 "width":254.150906583055,
-                 "x":491.616511227316,
-                 "y":2620.2872591025
+                 "width":1770.48554763448,
+                 "x":1753.22747568732,
+                 "y":1815.27473746181
+                }, 
+                {
+                 "height":166.466,
+                 "id":52,
+                 "name":"birds",
+                 "properties":[
+                        {
+                         "name":"audioLoop",
+                         "type":"bool",
+                         "value":true
+                        }, 
+                        {
+                         "name":"audioVolume",
+                         "type":"float",
+                         "value":0.5
+                        }, 
+                        {
+                         "name":"playAudio",
+                         "type":"string",
+                         "value":"\/birds.mp3"
+                        }],
+                 "rotation":0,
+                 "type":"area",
+                 "visible":true,
+                 "width":1546.42061076979,
+                 "x":-19.9692125604106,
+                 "y":1815.19652682066
                 }, 
                 {
                  "height":24.6282836337921,
@@ -3651,87 +3678,6 @@
                  "y":683.139534883721
                 }, 
                 {
-                 "height":1817.06876059983,
-                 "id":50,
-                 "name":"birds",
-                 "properties":[
-                        {
-                         "name":"audioLoop",
-                         "type":"bool",
-                         "value":true
-                        }, 
-                        {
-                         "name":"audioVolume",
-                         "type":"float",
-                         "value":0.5
-                        }, 
-                        {
-                         "name":"playAudio",
-                         "type":"string",
-                         "value":"\/birds.mp3"
-                        }],
-                 "rotation":0,
-                 "type":"area",
-                 "visible":true,
-                 "width":3494.4,
-                 "x":3.73632958801461,
-                 "y":18.8524157303368
-                }, 
-                {
-                 "height":166.465819831497,
-                 "id":51,
-                 "name":"birds",
-                 "properties":[
-                        {
-                         "name":"audioLoop",
-                         "type":"bool",
-                         "value":true
-                        }, 
-                        {
-                         "name":"audioVolume",
-                         "type":"float",
-                         "value":0.5
-                        }, 
-                        {
-                         "name":"playAudio",
-                         "type":"string",
-                         "value":"\/birds.mp3"
-                        }],
-                 "rotation":0,
-                 "type":"area",
-                 "visible":true,
-                 "width":1770.48554763448,
-                 "x":1753.22747568732,
-                 "y":1815.27473746181
-                }, 
-                {
-                 "height":166.466,
-                 "id":52,
-                 "name":"birds",
-                 "properties":[
-                        {
-                         "name":"audioLoop",
-                         "type":"bool",
-                         "value":true
-                        }, 
-                        {
-                         "name":"audioVolume",
-                         "type":"float",
-                         "value":0.5
-                        }, 
-                        {
-                         "name":"playAudio",
-                         "type":"string",
-                         "value":"\/birds.mp3"
-                        }],
-                 "rotation":0,
-                 "type":"area",
-                 "visible":true,
-                 "width":1546.42061076979,
-                 "x":-19.9692125604106,
-                 "y":1815.19652682066
-                }, 
-                {
                  "height":31.3014827018122,
                  "id":53,
                  "name":"exit-squid-bridge",
@@ -3747,6 +3693,60 @@
                  "width":127.951674903899,
                  "x":1375.0510708402,
                  "y":609.498077979132
+                }, 
+                {
+                 "height":158.714009563536,
+                 "id":41,
+                 "name":"waterfall",
+                 "properties":[
+                        {
+                         "name":"audioLoop",
+                         "type":"bool",
+                         "value":true
+                        }, 
+                        {
+                         "name":"audioVolume",
+                         "type":"float",
+                         "value":1
+                        }, 
+                        {
+                         "name":"playAudio",
+                         "type":"string",
+                         "value":"\/waterfall.mp3"
+                        }],
+                 "rotation":0,
+                 "type":"area",
+                 "visible":true,
+                 "width":325.56719910469,
+                 "x":1357.20826126768,
+                 "y":-4.06958998880863
+                }, 
+                {
+                 "height":186.736774516033,
+                 "id":31,
+                 "name":"fire",
+                 "properties":[
+                        {
+                         "name":"audioLoop",
+                         "type":"bool",
+                         "value":true
+                        }, 
+                        {
+                         "name":"audioVolume",
+                         "type":"float",
+                         "value":1
+                        }, 
+                        {
+                         "name":"playAudio",
+                         "type":"string",
+                         "value":"\/fire.mp3"
+                        }],
+                 "rotation":0,
+                 "type":"area",
+                 "visible":true,
+                 "width":254.150906583055,
+                 "x":491.616511227316,
+                 "y":2620.2872591025
                 }, 
                 {
                  "height":31.3015,
